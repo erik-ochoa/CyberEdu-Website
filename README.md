@@ -1,22 +1,9 @@
-![UMD CyberEdu logo](./assets/CyberEdu_logo.png)
-![UMD Logo](./assets/umd_logo.png)
 
-# [UMD CyberEdu Website](https://umdcyberedu.github.io/website/)
+# No longer in use
 
-**A website to be finished in Fall 2017.**
+**Please visit https://www.github.com/UMDCyberEdu **
 
-### Built with...
-HTML,
-CSS,
-[Sass](http://sass-lang.com/),
-JavaScript,
-[jQuery](https://jquery.com/),
-[{{mustache}}](https://mustache.github.io/),
-[Bulma](http://bulma.io/)
+If you're a CyberEdu developer:
+1. Accept the invite to the UMDCyberEdu organization
+2. Clone the new repo
 
-### Contributors
-
-1. [Omkar Konaraddi](https://konaraddio.github.io/)
-2. Erik Ochoa
-3. Ibrahim Jirdeh
-4. Katrina Delos Reyes
